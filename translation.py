@@ -21,11 +21,11 @@ class Translation(object):
 
 """
     BLOCK_LIST_TEXT = "This url is blocked so I can not upload this URL.\n\nUse @FnURLUploadBot"
-    FORMAT_SELECTION = """<b>Select the desired format:</b> <a href='{}'>file size might be approximate</a>
+    FORMAT_SELECTION = """<b>Choose appropriate option ⬇️</b> 
     
 Send your custum thumbnail if required.
 """
-    CHECKING_LINK = "<code>Analysing Your Link</code>🥱"
+    CHECKING_LINK = "<code>Analysing Your Link</code>🥱🥱..."
     BANNED_USER_TEXT = "<code>You are Banned!</code>"
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | newfilename | username | password"""
