@@ -8,9 +8,7 @@ class Translation(object):
 
 <b>Now Send the YouTube Video Link & then select your desired format.</b>I will Upload it for you.
 
-To view the saved thumbnail, Click <u>/showthumb</u> and use <u>delthumb</u> for deleting it.
-
-Made with Love : @Nobodys_Bots
+<b>©️ @Nobodys_Bots </b>
 
 
 
@@ -18,7 +16,9 @@ Made with Love : @Nobodys_Bots
 
 
 
-Made with Love : @Nobodys_Bots
+
+
+
 """
     BLOCK_LIST_TEXT = "This url is blocked so I can not upload this URL.\n\nUse @FnURLUploadBot"
     FORMAT_SELECTION = """<b>Select the desired format:</b> <a href='{}'>file size might be approximate</a>
