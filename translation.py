@@ -24,8 +24,8 @@ class Translation(object):
     FORMAT_SELECTION = """<b>Select the desired format:</b> <a href='{}'>file size might be approximate</a>
     
 Send your custum thumbnail if required.
-You can use /delthumb to delete the auto-generated thumbnail."""
-    CHECKING_LINK = "<code>Analysing Your Link</code>⏳"
+"""
+    CHECKING_LINK = "<code>Analysing Your Link</code>🥱"
     BANNED_USER_TEXT = "<code>You are Banned!</code>"
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | newfilename | username | password"""
