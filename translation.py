@@ -2,11 +2,11 @@ class Translation(object):
 
     START_TEXT = """
 <b>Hello {} , </b>
-<b>I'am a Powerful YouTube Upload Bot with permanent thumbnail support.</b>
+<b>I'am a Powerful YouTube Upload Bot with permanent thumbnail support 💯.</b>
 
 <b>Send me any Custom Thumbnail / Photo </b>
 
-<b>Now Send the YouTube Video Link & then select your desired format.</b>I will Upload it for you.
+<b>Now Send the YouTube Video Link & then select your desired format.</b>
 
 <b>©️ @Nobodys_Bots </b>
 
