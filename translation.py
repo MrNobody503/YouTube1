@@ -25,6 +25,7 @@ class Translation(object):
 
 S - Stream format (left side)
 D - Document format (right side)
+
 Send your custom thumbnail if required.
 """
     CHECKING_LINK = "<code>Analysing Your Link</code> 🤓...."
