@@ -1,10 +1,10 @@
 class Translation(object):
 
     START_TEXT = """
-Hello {} , I'am a simple youtube video link to telegram file or media uploader bot with permanent thumbnail support.
+<b>Hello {} , I'am a Powerful YouTube Upload Bot with permanent thumbnail support.</b>
 
 <b><u>Link to Media or File</u></b>
-➠ Send a youtube video link for upload to telegram file or media.
+➠ Send a youtube video link for Uploading to Telegram.
 
 <b><u>Set Thumbnail</u></b>
 ➠ Send a photo to make it as permanent thumbnail.
@@ -13,7 +13,7 @@ Hello {} , I'am a simple youtube video link to telegram file or media uploader b
 ➠ Send /delthumb to deleting thumbnail.
 
 <b><u>Show Thumbnail</u></b>
-➠ Send /showthumb to view custom thumbnail.
+➠ Send /showthumb to display the saved thumbnail.
 
 Made with Love : @Nobodys_Bots
 """
