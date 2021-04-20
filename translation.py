@@ -26,7 +26,7 @@ class Translation(object):
 <b>S - Stream format (left side)</b>
 <b>D - Document format (right side)</b>
 
-Send your custom thumbnail if required."""
+<b>Send your custom thumbnail.</b>"""
 
     CHECKING_LINK = "<code>Analysing Your Link</code> 🤓...."
     BANNED_USER_TEXT = "<code>You are Banned!</code>"
