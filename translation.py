@@ -23,8 +23,8 @@ class Translation(object):
     BLOCK_LIST_TEXT = "This url is blocked so I can not upload this URL.\n\nUse @FnURLUploadBot"
     FORMAT_SELECTION = """<b>Choose appropriate option ⬇️</b> 
 
-S - Stream format (left side)
-D - Document format (right side)
+<b>S - Stream format (left side)</b>
+<b>D - Document format (right side)</b>
 
 Send your custom thumbnail if required."""
 
