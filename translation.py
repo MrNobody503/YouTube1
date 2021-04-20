@@ -26,8 +26,8 @@ class Translation(object):
 S - Stream format (left side)
 D - Document format (right side)
 
-Send your custom thumbnail if required.
-"""
+Send your custom thumbnail if required."""
+
     CHECKING_LINK = "<code>Analysing Your Link</code> 🤓...."
     BANNED_USER_TEXT = "<code>You are Banned!</code>"
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
