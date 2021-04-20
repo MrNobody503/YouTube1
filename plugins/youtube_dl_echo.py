@@ -244,11 +244,11 @@ async def echo(bot, update):
                 "video", format_id, format_ext)
             inline_keyboard.append([
                 InlineKeyboardButton(
-                    "🎞️SVideo🎞️",
+                    "🎞SVideo",
                     callback_data=(cb_string_video).encode("UTF-8")
                 ),
                 InlineKeyboardButton(
-                    "🗂️DFile🗂️",
+                    "📁DFile",
                     callback_data=(cb_string_file).encode("UTF-8")
                 )
             ])
